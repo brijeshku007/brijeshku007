@@ -9,7 +9,7 @@
 - 📫 How to reach me: [uietbrijesh@gmail.com](mailto:uietbrijesh@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OfuLLF9LYQI8HZmyKZTFMvlj9_1FGCl_/view?usp=drive_link)
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1OfuLLF9LYQI8HZmyKZTFMvlj9_1FGCl_/view?usp=drive_link)
+- 📄 Know more about me [Resume](https://portfolio-psi-lovat-72.vercel.app/)
 
 
 
@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/brijeshkumar007/">
     <img src="https://img.shields.io/badge/linkedin-purple?style=for-the-badge&logo=Linkedin&logoColor=white%22"/>
   </a>
-   <a href="https://www.linkedin.com/in/brijeshkumar007/">
+   <a href="https://www.geeksforgeeks.org/user/uietbrrw96/">
     <img src="https://img.shields.io/badge/gfg-purple?style=for-the-badge&logo=gfg&logoColor=white%22"/>
   </a>
  
