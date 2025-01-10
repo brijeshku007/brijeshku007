@@ -8,7 +8,8 @@
 
 - 📫 How to reach me: [uietbrijesh@gmail.com](mailto:uietbrijesh@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kv-DO1DVUe0AdQEBVgw7J6oR22F91ztE/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OfuLLF9LYQI8HZmyKZTFMvlj9_1FGCl_/view?usp=drive_link)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1OfuLLF9LYQI8HZmyKZTFMvlj9_1FGCl_/view?usp=drive_link)
 
 
 
