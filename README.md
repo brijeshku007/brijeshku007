@@ -59,6 +59,6 @@
 <!-- Display GitHub stats in a cool way -->
 
 
-![Ajay's GitHub states](https://github-readme-stats.vercel.app/api?username=brijesh007&show_icons=true&theme=dark)
+![Brijesh's GitHub states](https://github-readme-stats.vercel.app/api?username=brijesh007&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh007&theme=dark)
