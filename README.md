@@ -3,13 +3,13 @@
 
 
 - 🔭 I’m currently working on a blogging app
-- 🌱 I’m currently Learning advanced Java
+- 🌱 I’m currently Learning mored deep About Nodejs
 - 💬 Ask me about React, JavaScript, Core Java, Sql, Oops, DSA. 
 
 - 📫 How to reach me: [uietbrijesh@gmail.com](mailto:uietbrijesh@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OfuLLF9LYQI8HZmyKZTFMvlj9_1FGCl_/view?usp=drive_link)
-- 📄 Know more about me [Resume](https://portfolio-psi-lovat-72.vercel.app/)
+- 📄 Know more about me [portfolio](https://portfolio-psi-lovat-72.vercel.app/)
 
 
 
@@ -59,6 +59,4 @@
 <!-- Display GitHub stats in a cool way -->
 
 
-![Brijesh's GitHub states](https://github-readme-stats.vercel.app/api?username=brijesh007&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh007&theme=dark)
